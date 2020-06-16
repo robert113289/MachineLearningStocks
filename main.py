@@ -10,7 +10,7 @@ import math
 from collections import Counter
 
 style.use("ggplot")
-quandl.ApiConfig.api_key = 'nQs-4ToCpNts7xonon1H'
+quandl.ApiConfig.api_key = ''
 # quandl.ApiConfig.api_version = '2015-04-09'
 
 # data = quandl.get_table('ZACKS/FC', ticker='AAPL')
